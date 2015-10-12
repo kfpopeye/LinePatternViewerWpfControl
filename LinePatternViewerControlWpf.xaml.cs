@@ -5,7 +5,7 @@ using WShapes = System.Windows.Shapes;
 using System.Windows.Media;
 using Autodesk.Revit.DB;
 
-namespace PKHL.Clean_Slate.LinePatternViewer
+namespace LinePatternViewer
 {
     /// <summary>
     /// Interaction logic for LinePatternViewerControlWpf.xaml
